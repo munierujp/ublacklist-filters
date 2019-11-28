@@ -13,6 +13,6 @@
 *://blog.esuteru.com/*
 *://twirepo.com/*
 *://toiroha.jp/*
-*://www.code-adviser.com/*
-*://www.sejuku.net/*
+*://*.code-adviser.com/*
+*://*.sejuku.net/*
 *://*.srad.jp/*
