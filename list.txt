@@ -17,3 +17,4 @@
 *://*.sejuku.net/*
 *://*.srad.jp/*
 *://tutorialmore.com/*
+*://www.it-swarm.net/*
