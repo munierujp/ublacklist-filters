@@ -16,3 +16,4 @@
 *://*.code-adviser.com/*
 *://*.sejuku.net/*
 *://*.srad.jp/*
+*://tutorialmore.com/*
