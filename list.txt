@@ -1,1 +1,2 @@
 *://www.it-swarm.dev/*
+*://stackoverflow.com/*
