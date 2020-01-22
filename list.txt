@@ -1,2 +1,3 @@
 *://www.it-swarm.dev/*
 *://stackoverflow.com/*
+*://tutorialmore.com/*
