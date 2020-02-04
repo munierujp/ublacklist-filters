@@ -3,3 +3,4 @@
 *://kotaeta.com/*
 *://steakrecords.com/*
 *://newspicks.com/*
+*://012-jp.vuejs.org/*
