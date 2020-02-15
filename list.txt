@@ -5,3 +5,4 @@
 *://newspicks.com/*
 *://012-jp.vuejs.org/*
 *://v1-jp.vuejs.org/*
+*://voidcc.com/*
