@@ -7,3 +7,4 @@
 *://v1-jp.vuejs.org/*
 *://voidcc.com/*
 *://b.hatena.ne.jp/*
+*://jin115.com/*
