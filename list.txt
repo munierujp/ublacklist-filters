@@ -12,3 +12,4 @@
 *://itnews.org/*
 *://ja.voidcc.com/*
 *://riptutorial.com/*
+*://ceron.jp/*
