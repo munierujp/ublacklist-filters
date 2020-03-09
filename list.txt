@@ -13,3 +13,4 @@
 *://ja.voidcc.com/*
 *://riptutorial.com/*
 *://ceron.jp/*
+*://qastack.jp/*
