@@ -14,3 +14,4 @@
 *://riptutorial.com/*
 *://ceron.jp/*
 *://qastack.jp/*
+*://vue-loader-v14.vuejs.org/*
