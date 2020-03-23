@@ -16,3 +16,4 @@
 *://qastack.jp/*
 *://vue-loader-v14.vuejs.org/*
 *://matome.naver.jp/*
+*://www.sejuku.net/*
