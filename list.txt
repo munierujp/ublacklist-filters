@@ -6,3 +6,4 @@
 *://matome.naver.jp/*
 *://www.sejuku.net/*
 *://itnews.org/*
+*://scrapbox.io/*
