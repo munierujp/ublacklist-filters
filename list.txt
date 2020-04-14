@@ -7,3 +7,4 @@
 *://www.sejuku.net/*
 *://itnews.org/*
 *://scrapbox.io/*
+*://ja.coder.work/*
