@@ -1,13 +1,1 @@
-*://www.it-swarm.dev/*
-*://012-jp.vuejs.org/*
-*://v1-jp.vuejs.org/*
-*://b.hatena.ne.jp/*
-*://vue-loader-v14.vuejs.org/*
-*://matome.naver.jp/*
-*://www.sejuku.net/*
-*://itnews.org/*
-*://scrapbox.io/*
-*://ja.coder.work/*
-*://living-sun.com/*
-*://newspicks.com/*
 *://search.yahoo.co.jp/realtime/search/*
