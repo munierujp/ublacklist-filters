@@ -10,3 +10,4 @@
 *://ja.coder.work/*
 *://living-sun.com/*
 *://newspicks.com/*
+*://search.yahoo.co.jp/realtime/search/*
