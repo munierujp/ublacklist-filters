@@ -1,1 +1,2 @@
 *://search.yahoo.co.jp/realtime/search/*
+*://matome.naver.jp/*
