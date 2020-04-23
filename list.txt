@@ -1,4 +1,5 @@
-*://search.yahoo.co.jp/realtime/search/*
-*://matome.naver.jp/*
 *://detail.chiebukuro.yahoo.co.jp/*
+*://matome.naver.jp/*
+*://search.yahoo.co.jp/realtime/search/*
+*://stackoverflow.com/*
 *://www.sejuku.net/*
