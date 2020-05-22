@@ -1,2 +1,3 @@
 *://ja.ihowto.tips/*
+*://matome.naver.jp/*
 *://www.it-swarm.dev/*
