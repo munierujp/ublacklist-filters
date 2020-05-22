@@ -5,3 +5,4 @@
 *://www.it-swarm.dev/*
 *://www.sejuku.net/*
 *://www.slideshare.net/*
+*://ja.ihowto.tips/*
