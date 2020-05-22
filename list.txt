@@ -1,8 +1,2 @@
-*://detail.chiebukuro.yahoo.co.jp/*
-*://matome.naver.jp/*
-*://search.yahoo.co.jp/realtime/search/*
-*://stackoverflow.com/*
 *://www.it-swarm.dev/*
-*://www.sejuku.net/*
-*://www.slideshare.net/*
 *://ja.ihowto.tips/*
