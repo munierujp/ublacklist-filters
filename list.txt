@@ -1,2 +1,4 @@
 # はてなブックマーク
 *://b.hatena.ne.jp/entry/*
+# ITnews
+*://itnews.org/*
