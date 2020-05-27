@@ -4,3 +4,5 @@
 *://itnews.org/*
 # SlideShare: えてしてスライド単体だと意味がわからないので
 *://www.slideshare.net/*
+# ITツールウェブ: オリジナルページにアクセスするためにワンクッション挟みたくないので
+*://ja.coder.work/*
