@@ -6,3 +6,5 @@
 *://www.slideshare.net/*
 # ITツールウェブ: オリジナルページにアクセスするためにワンクッション挟みたくないので
 *://ja.coder.work/*
+# TechAcademyマガジン: 質の低い記事を見たくないので
+*://techacademy.jp/magazine/*
