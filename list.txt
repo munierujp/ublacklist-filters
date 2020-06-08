@@ -1,12 +1,7 @@
-# はてなブックマーク: オリジナルページにアクセスするためにワンクッション挟みたくないので
 *://b.hatena.ne.jp/entry/*
-# ITnews: オリジナルページにアクセスするためにワンクッション挟みたくないので
 *://itnews.org/*
-# SlideShare: えてしてスライド単体だと意味がわからないので
-*://www.slideshare.net/*
-# ITツールウェブ: オリジナルページにアクセスするためにワンクッション挟みたくないので
 *://ja.coder.work/*
-# TechAcademyマガジン: 質の低い記事を見たくないので
+*://steakrecords.com/ja/*
 *://techacademy.jp/magazine/*
-# 366Service: オリジナルページにアクセスするためにワンクッション挟みたくないので
-*://www.366service.com/jp/
+*://www.366service.com/jp/*
+*://www.slideshare.net/*
