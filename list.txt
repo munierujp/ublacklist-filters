@@ -8,3 +8,5 @@
 *://ja.coder.work/*
 # TechAcademyマガジン: 質の低い記事を見たくないので
 *://techacademy.jp/magazine/*
+# 366Service: オリジナルページにアクセスするためにワンクッション挟みたくないので
+*://www.366service.com/jp/
