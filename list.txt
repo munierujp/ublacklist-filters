@@ -1,6 +1,7 @@
 *://b.hatena.ne.jp/entry/*
 *://itnews.org/*
 *://ja.coder.work/*
+*://ja.programqa.com/*
 *://living-sun.com/ja/*
 *://steakrecords.com/ja/*
 *://techacademy.jp/magazine/*
