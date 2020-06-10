@@ -6,4 +6,5 @@
 *://steakrecords.com/ja/*
 *://techacademy.jp/magazine/*
 *://www.366service.com/jp/*
+*://www.it-swarm.dev/ja/*
 *://www.slideshare.net/*
