@@ -3,6 +3,7 @@
 *://ja.coder.work/*
 *://ja.programqa.com/*
 *://living-sun.com/ja/*
+*://qa.codeflow.site/questions/*
 *://steakrecords.com/ja/*
 *://techacademy.jp/magazine/*
 *://www.366service.com/jp/*
