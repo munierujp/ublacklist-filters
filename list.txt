@@ -5,6 +5,7 @@
 *://living-sun.com/ja/*
 *://matome.naver.jp/*
 *://qa.codeflow.site/questions/*
+*://stackoverrun.com/ja/*
 *://steakrecords.com/ja/*
 *://techacademy.jp/magazine/*
 *://www.366service.com/jp/*
