@@ -3,7 +3,5 @@
 *://matome.naver.jp/odai/*
 *://newstopics.jp/url/*
 *://search.yahoo.co.jp/realtime/search/*
-*://techacademy.jp/magazine/*
 *://tr.twipple.jp/detail_matome/*
-*://www.sejuku.net/blog/*
 *://www.slideshare.net/*
