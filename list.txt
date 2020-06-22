@@ -6,6 +6,7 @@
 *://matome.naver.jp/*
 *://newstopics.jp/*
 *://qa.codeflow.site/questions/*
+*://search.yahoo.co.jp/realtime/search/*
 *://stackoverrun.com/ja/*
 *://steakrecords.com/ja/*
 *://techacademy.jp/magazine/*
