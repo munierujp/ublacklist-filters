@@ -1,7 +1,7 @@
 *://b.hatena.ne.jp/entry/*
-*://itnews.org/*
-*://matome.naver.jp/*
-*://newstopics.jp/*
+*://itnews.org/news_resources/*
+*://matome.naver.jp/odai/*
+*://newstopics.jp/url/*
 *://search.yahoo.co.jp/realtime/search/*
 *://techacademy.jp/magazine/*
 *://tr.twipple.jp/detail_matome/*
