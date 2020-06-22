@@ -2,7 +2,6 @@
 *://itnews.org/*
 *://matome.naver.jp/*
 *://newstopics.jp/*
-*://qa.codeflow.site/*
 *://search.yahoo.co.jp/realtime/search/*
 *://techacademy.jp/magazine/*
 *://tr.twipple.jp/detail_matome/*
