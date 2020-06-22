@@ -1,17 +1,10 @@
 *://b.hatena.ne.jp/entry/*
 *://itnews.org/*
-*://ja.coder.work/*
-*://ja.programqa.com/*
-*://living-sun.com/ja/*
 *://matome.naver.jp/*
 *://newstopics.jp/*
 *://qa.codeflow.site/questions/*
 *://search.yahoo.co.jp/realtime/search/*
-*://stackoverrun.com/ja/*
-*://steakrecords.com/ja/*
 *://techacademy.jp/magazine/*
 *://tr.twipple.jp/detail_matome/*
-*://www.366service.com/jp/*
-*://www.it-swarm.dev/ja/*
 *://www.sejuku.net/blog/*
 *://www.slideshare.net/*
