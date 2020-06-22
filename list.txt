@@ -4,6 +4,7 @@
 *://ja.programqa.com/*
 *://living-sun.com/ja/*
 *://matome.naver.jp/*
+*://newstopics.jp/*
 *://qa.codeflow.site/questions/*
 *://stackoverrun.com/ja/*
 *://steakrecords.com/ja/*
