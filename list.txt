@@ -10,6 +10,7 @@
 *://stackoverrun.com/ja/*
 *://steakrecords.com/ja/*
 *://techacademy.jp/magazine/*
+*://tr.twipple.jp/detail_matome/*
 *://www.366service.com/jp/*
 *://www.it-swarm.dev/ja/*
 *://www.sejuku.net/blog/*
