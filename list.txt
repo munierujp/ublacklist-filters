@@ -2,6 +2,7 @@
 *://itnews.org/news_resources/*
 *://matome.naver.jp/odai/*
 *://newstopics.jp/url/*
+*://scrapbox.io/*
 *://search.yahoo.co.jp/realtime/search/*
 *://tr.twipple.jp/detail_matome/*
 *://www.slideshare.net/*
