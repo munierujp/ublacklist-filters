@@ -1,4 +1,5 @@
 *://b.hatena.ne.jp/entry/*
+*://ceron.jp/url/*
 *://itnews.org/news_resources/*
 *://matome.naver.jp/odai/*
 *://newstopics.jp/url/*
