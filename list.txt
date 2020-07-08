@@ -5,5 +5,6 @@
 *://newstopics.jp/url/*
 *://scrapbox.io/*
 *://search.yahoo.co.jp/realtime/search/*
+*://techfeed.io/entries/*
 *://tr.twipple.jp/detail_matome/*
 *://www.slideshare.net/*
