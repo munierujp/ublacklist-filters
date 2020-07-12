@@ -1,6 +1,6 @@
 *://b.hatena.ne.jp/entry/*
 *://ceron.jp/url/*
-*://chiebukuro.yahoo.co.jp/search/*
+*://chiebukuro.yahoo.co.jp/*
 *://itnews.org/news_resources/*
 *://matome.naver.jp/odai/*
 *://newstopics.jp/url/*
