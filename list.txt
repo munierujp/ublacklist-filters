@@ -9,4 +9,3 @@
 *://techfeed.io/entries/*
 *://tr.twipple.jp/detail_matome/*
 *://twitter.com/hashtag/*
-*://www.slideshare.net/*
