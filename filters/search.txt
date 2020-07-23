@@ -1,3 +1,4 @@
 *://search.rakuten.co.jp/search/mall/*
+*://shopping.yahoo.co.jp/ranking/keyword/*
 *://shopping.yahoo.co.jp/search/*
 *://wowma.jp/keyword/*
