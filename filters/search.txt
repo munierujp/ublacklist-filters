@@ -1,5 +1,6 @@
 *://auctions.yahoo.co.jp/search/search/*
 *://chiebukuro.yahoo.co.jp/search?*
+*://chiebukuro.yahoo.co.jp/tag/tags.php?*
 *://maho.jp/search?*
 *://search.rakuten.co.jp/search/mall/*
 *://shopping.yahoo.co.jp/ranking/keyword/*
