@@ -8,5 +8,6 @@
 *://shopping.yahoo.co.jp/search/*
 *://twitter.com/hashtag/*
 *://wowma.jp/keyword/*
+*://www.biccamera.com/bc/category/?q=*
 *://www.instagram.com/explore/tags/*
 *://www.nicovideo.jp/tag/*
