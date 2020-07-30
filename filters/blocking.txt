@@ -1,0 +1,15 @@
+*://auctions.yahoo.co.jp/search/search/*
+*://chiebukuro.yahoo.co.jp/search?*
+*://chiebukuro.yahoo.co.jp/tag/tags.php?*
+*://maho.jp/search?*
+*://scrapbox.io/*
+*://search.rakuten.co.jp/search/mall/*
+*://search.yahoo.co.jp/realtime/search?*
+*://shopping.yahoo.co.jp/ranking/keyword/*
+*://shopping.yahoo.co.jp/search/*
+*://techacademy.jp/magazine/*
+*://twitter.com/hashtag/*
+*://wowma.jp/keyword/*
+*://www.biccamera.com/bc/category/?q=*
+*://www.instagram.com/explore/tags/*
+*://www.nicovideo.jp/tag/*
