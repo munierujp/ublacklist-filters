@@ -1,6 +1,7 @@
 *://auctions.yahoo.co.jp/search/search/*
 *://chiebukuro.yahoo.co.jp/search?*
 *://chiebukuro.yahoo.co.jp/tag/tags.php?*
+*://itnews.org/news_resources/*
 *://maho.jp/search?*
 *://scrapbox.io/*
 *://search.rakuten.co.jp/search/mall/*
