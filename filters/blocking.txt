@@ -1,4 +1,5 @@
 *://auctions.yahoo.co.jp/search/search/*
+*://b.hatena.ne.jp/entry/*
 *://chiebukuro.yahoo.co.jp/search?*
 *://chiebukuro.yahoo.co.jp/tag/tags.php?*
 *://itnews.org/news_resources/*
