@@ -5,6 +5,7 @@
 *://chiebukuro.yahoo.co.jp/tag/tags.php?*
 *://itnews.org/news_resources/*
 *://maho.jp/search?*
+*://newspicks.com/news/*
 *://newstopics.jp/url/*
 *://scrapbox.io/*
 *://search.rakuten.co.jp/search/mall/*
