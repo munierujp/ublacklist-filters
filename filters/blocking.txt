@@ -11,6 +11,7 @@
 *://scrapbox.io/*
 *://search.rakuten.co.jp/search/mall/*
 *://search.yahoo.co.jp/realtime/search?*
+*://search.yahoo.co.jp/realtime/search/*
 *://shopping.yahoo.co.jp/ranking/keyword/*
 *://shopping.yahoo.co.jp/search/*
 *://techacademy.jp/magazine/*
