@@ -15,6 +15,7 @@
 *://shopping.yahoo.co.jp/ranking/keyword/*
 *://shopping.yahoo.co.jp/search/*
 *://techacademy.jp/magazine/*
+*://tr.twipple.jp/h/*
 *://twitter.com/hashtag/*
 *://wowma.jp/keyword/*
 *://www.biccamera.com/bc/category/?*
