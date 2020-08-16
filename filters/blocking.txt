@@ -22,3 +22,4 @@
 *://www.biccamera.com/bc/category/?*
 *://www.instagram.com/explore/tags/*
 *://www.nicovideo.jp/tag/*
+*://www.pinterest.jp/pin/*
