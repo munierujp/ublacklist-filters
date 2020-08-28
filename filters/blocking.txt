@@ -1,3 +1,4 @@
+*://auctions.yahoo.co.jp/closedsearch/closedsearch/*
 *://auctions.yahoo.co.jp/search/search/*
 *://b.hatena.ne.jp/entry/*
 *://b.hatena.ne.jp/search/title?*
