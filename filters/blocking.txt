@@ -24,4 +24,5 @@
 *://www.instagram.com/explore/tags/*
 *://www.nicovideo.jp/tag/*
 *://www.pinterest.jp/pin/*
+*://www.ponparemall.com/word/*
 *://www.wikiwand.com/*
