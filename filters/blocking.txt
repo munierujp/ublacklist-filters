@@ -1,9 +1,6 @@
 *://auctions.yahoo.co.jp/closedsearch/closedsearch/*
 *://auctions.yahoo.co.jp/search/search/*
 *://b.hatena.ne.jp/entry/*
-*://b.hatena.ne.jp/search/title?*
-*://chiebukuro.yahoo.co.jp/search?*
-*://chiebukuro.yahoo.co.jp/tag/tags.php?*
 *://itnews.org/news_resources/*
 *://maho.jp/search?*
 *://matome.naver.jp/odai/*
@@ -11,7 +8,6 @@
 *://newstopics.jp/url/*
 *://scrapbox.io/*
 *://search.rakuten.co.jp/search/mall/*
-*://search.yahoo.co.jp/realtime/search?*
 *://search.yahoo.co.jp/realtime/search/*
 *://shopping.yahoo.co.jp/ranking/keyword/*
 *://shopping.yahoo.co.jp/search/*
@@ -20,7 +16,6 @@
 *://tsuiran.jp/word/*
 *://twitter.com/hashtag/*
 *://wowma.jp/keyword/*
-*://www.biccamera.com/bc/category/?*
 *://www.instagram.com/explore/tags/*
 *://www.nicovideo.jp/tag/*
 *://www.pinterest.jp/pin/*
