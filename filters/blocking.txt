@@ -21,6 +21,7 @@
 *://twitter.com/search?*
 *://wowma.jp/keyword/*
 *://www.instagram.com/explore/tags/*
+*://www.mercari.com/jp/search/?*
 *://www.nicovideo.jp/tag/*
 *://www.ponparemall.com/word/*
 *://www.wikiwand.com/*
