@@ -2,6 +2,7 @@
 *://auctions.yahoo.co.jp/search/search/*
 *://b.hatena.ne.jp/entry/*
 *://b.hatena.ne.jp/search/*
+*://beauty.hotpepper.jp/keyword/*
 *://itnews.org/news_resources/*
 *://maho.jp/search?*
 *://matome.naver.jp/odai/*
