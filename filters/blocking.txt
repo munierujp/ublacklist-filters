@@ -17,6 +17,7 @@
 *://tr.twipple.jp/h/*
 *://tsuiran.jp/word/*
 *://twitter.com/hashtag/*
+*://twitter.com/search?*
 *://wowma.jp/keyword/*
 *://www.instagram.com/explore/tags/*
 *://www.nicovideo.jp/tag/*
