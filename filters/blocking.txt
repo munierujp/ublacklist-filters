@@ -3,7 +3,7 @@
 *://b.hatena.ne.jp/entry/*
 *://b.hatena.ne.jp/search/*
 *://beauty.hotpepper.jp/keyword/*
-*://chiebukuro.yahoo.co.jp/tag/tags.php?tag=*
+*://chiebukuro.yahoo.co.jp/tag/tags.php?*
 *://itnews.org/news_resources/*
 *://maho.jp/search?*
 *://matome.naver.jp/odai/*
