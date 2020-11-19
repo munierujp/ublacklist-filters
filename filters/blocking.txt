@@ -4,6 +4,7 @@
 *://b.hatena.ne.jp/search/*
 *://beauty.hotpepper.jp/keyword/*
 *://chiebukuro.yahoo.co.jp/tag/tags.php?*
+*://developer.aliyun.com/mirror/npm/package/*
 *://itnews.org/news_resources/*
 *://maho.jp/search?*
 *://matome.naver.jp/odai/*
