@@ -25,5 +25,6 @@
 *://www.instagram.com/explore/tags/*
 *://www.mercari.com/jp/search/?*
 *://www.nicovideo.jp/tag/*
+*://www.npmjs.com/search?*
 *://www.ponparemall.com/word/*
 *://www.wikiwand.com/*
