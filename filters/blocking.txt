@@ -3,6 +3,7 @@
 *://b.hatena.ne.jp/entry/*
 *://b.hatena.ne.jp/search/*
 *://beauty.hotpepper.jp/keyword/*
+*://ceron.jp/url/*
 *://chiebukuro.yahoo.co.jp/tag/tags.php?*
 *://developer.aliyun.com/mirror/npm/package/*
 *://itnews.org/news_resources/*
