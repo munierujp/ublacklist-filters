@@ -34,5 +34,6 @@
 *://www.nicovideo.jp/tag/*
 *://www.npmjs.com/search?*
 *://www.picuki.com/tag/*
+*://www.pixiv.net/tags/*
 *://www.ponparemall.com/word/*
 *://www.wikiwand.com/*
