@@ -6,6 +6,7 @@
 *://ceron.jp/url/*
 *://chiebukuro.yahoo.co.jp/tag/tags.php?*
 *://developer.aliyun.com/mirror/npm/package/*
+*://gramho.com/explore-hashtag/*
 *://itnews.org/news_resources/*
 *://maho.jp/search?*
 *://matome.naver.jp/odai/*
@@ -30,5 +31,6 @@
 *://www.mercari.com/jp/search/?*
 *://www.nicovideo.jp/tag/*
 *://www.npmjs.com/search?*
+*://www.picuki.com/tag/*
 *://www.ponparemall.com/word/*
 *://www.wikiwand.com/*
