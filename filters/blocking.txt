@@ -19,6 +19,7 @@
 *://search.rakuten.co.jp/search/mall/*
 *://search.yahoo.co.jp/realtime/search/*
 *://search2.vector.co.jp/vsearch/*
+*://seiga.nicovideo.jp/manga/tag/*
 *://seiga.nicovideo.jp/tag/*
 *://shopping.yahoo.co.jp/ranking/keyword/*
 *://shopping.yahoo.co.jp/search/*
