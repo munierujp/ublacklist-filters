@@ -11,6 +11,7 @@
 *://itnews.org/news_resources/*
 *://maho.jp/search?*
 *://matome.naver.jp/odai/*
+*://news.yahoo.co.jp/search?*
 *://news.yahoo.co.jp/search/*
 *://newspicks.com/news/*
 *://newstopics.jp/url/*
