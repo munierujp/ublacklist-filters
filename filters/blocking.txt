@@ -18,6 +18,7 @@
 *://qiita.com/tags/*
 *://scrapbox.io/*
 *://search.rakuten.co.jp/search/mall/*
+*://search.yahoo.co.jp/realtime/search?*
 *://search.yahoo.co.jp/realtime/search/*
 *://search2.vector.co.jp/vsearch/*
 *://seiga.nicovideo.jp/manga/tag/*
