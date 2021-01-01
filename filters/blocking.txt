@@ -9,6 +9,7 @@
 *://developer.aliyun.com/mirror/npm/package/*
 *://gramho.com/explore-hashtag/*
 *://itnews.org/news_resources/*
+*://kids.yahoo.co.jp/search?*
 *://maho.jp/search?*
 *://matome.naver.jp/odai/*
 *://news.yahoo.co.jp/search?*
