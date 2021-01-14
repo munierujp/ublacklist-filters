@@ -29,6 +29,7 @@
 *://techacademy.jp/magazine/*
 *://tr.twipple.jp/h/*
 *://tsuiran.jp/word/*
+*://tsutaya.tsite.jp/search/*
 *://twitter.com/hashtag/*
 *://twitter.com/search?*
 *://wowma.jp/keyword/*
