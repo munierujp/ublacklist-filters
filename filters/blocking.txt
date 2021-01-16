@@ -34,6 +34,7 @@
 *://twitter.com/hashtag/*
 *://twitter.com/search?*
 *://wowma.jp/keyword/*
+*://wowma.jp/kw/*
 *://www.instagram.com/explore/tags/*
 *://www.mercari.com/jp/search/?*
 *://www.nicovideo.jp/tag/*
