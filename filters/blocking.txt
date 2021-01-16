@@ -43,5 +43,6 @@
 *://www.ponparemall.com/word/*
 *://www.wikiwand.com/*
 *://www.xnxx.com/search/*
+*://www.xnxx.es/search/*
 *://www.xnxx2.com/search/*
 *://www.xvideos.com/?k=*
