@@ -10,6 +10,7 @@
 *://gramho.com/explore-hashtag/*
 *://gyao.yahoo.co.jp/search?*
 *://itnews.org/news_resources/*
+*://kentei.cc/kentei/search.php?*
 *://kids.yahoo.co.jp/search?*
 *://maho.jp/search?*
 *://matome.naver.jp/odai/*
