@@ -1,3 +1,4 @@
+*://anond.hatelabo.jp/keyword/*
 *://auctions.yahoo.co.jp/closedsearch/closedsearch/*
 *://auctions.yahoo.co.jp/search/search/*
 *://b.hatena.ne.jp/entry/*
