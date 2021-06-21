@@ -11,6 +11,7 @@
 *://gramho.com/explore-hashtag/*
 *://gyao.yahoo.co.jp/search?*
 *://itnews.org/news_resources/*
+*://kakaku.com/search_results/*
 *://kentei.cc/kentei/search.php?*
 *://kids.yahoo.co.jp/search?*
 *://maho.jp/search?*
